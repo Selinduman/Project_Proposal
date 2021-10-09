@@ -1,7 +1,7 @@
 ---
 title: "Project Title"
 author: "Team Name"
-date: "3/22/2021"
+date: "10/11/2021"
 output:
   html_document: default
   pdf_document: default
@@ -25,6 +25,6 @@ Tell how long each member is within your team and give percentage of the contrib
 **Cautionary notes**: 
 1) Please fill in the Team Info form on [Ninova](https://ninova.itu.edu.tr/tr/).
 2) Project proposals will not be accepted after deadline. 
-3) Project proposals should be submitted by each member of the team via [GitHub Classroom of MAT381E organization](https://github.com/MAT381E). 
+3) Project proposals should be submitted by each member of the team via [GitHub Classroom of MAT381E_Fall21 organization](https://github.com/MAT381E_Fall21). 
 4) Submit your project proposal R Project (include all source files, i.e., .Rmd file) by
-March 29, 2021  18:00.
+November 1, 2021  18:00.
