@@ -3,12 +3,12 @@ title: "Project Title"
 author: "Team Name"
 date: "10/11/2021"
 output:
-  html_document: default
   pdf_document: default
+  html_document: default
 ---
 
 
-Project proposals should be written in `R Markdown` and `.pdf output` should be at most **3-pages long**. To be able to create `.pdf output`, you have to download and install `Latex`. To do so, go to the `Week 1 Lecture notes > Intro to R Markdown slides > page 26`. All team members should be involved in the preparation of the project proposal. Project proposal is due within during **Week 5**. Project proposal should present appropriate details on the following topics (please note that other than Title, Team members sections, order does not need to necessarily be in the order seen below):
+Project proposals should be written in `R Markdown` and `.pdf output` should be at most **5-pages long**. To be able to create `.pdf output`, you have to download and install `Latex`. To do so, go to the `Week 1 Lecture notes > Intro to R Markdown slides > page 26`. All team members should be involved in the preparation of the project proposal. Project proposal is due within during **Week 5**. Project proposal should present appropriate details on the following topics (please note that other than Title, Team members sections, order does not need to necessarily be in the order seen below):
 
  
 *	Project title
