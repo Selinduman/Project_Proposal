@@ -1,0 +1,30 @@
+---
+title: "Project Title"
+author: "Team Name"
+date: "3/22/2021"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+
+Project proposals should be written in `R Markdown` and `.pdf output` should be at most **3-pages long**. To be able to create `.pdf output`, you have to download and install `Latex`. To do so, go to the `Week 1 Lecture notes > Intro to R Markdown slides > page 26`. All team members should be involved in the preparation of the project proposal. Project proposal is due within during **Week 5**. Project proposal should present appropriate details on the following topics (please note that other than Title, Team members sections, order does not need to necessarily be in the order seen below):
+
+ 
+*	Project title
+*	Project team members
+* Project proposal should clearly define the social problem or issue the project is addressing, and explicitly identify research questions to be answered.
+* Project proposal should give detailed description of project data (what kind of data it is, what are the variables, how to access to data and so on).
+* Project proposal should also discuss whether there is any ethical considerations for this project data (if there is, we strongly suggest you not to use that data).
+* Project proposal should give an idea what will be the end product, i.e., describe what you hope to deliver as a final product.
+* A task plan how project will be performed. 
+* State assignment of tasks and projected contributions for each team members.
+Tell how long each member is within your team and give percentage of the contribution of each team member to the preparation of the project proposal. 
+
+
+**Cautionary notes**: 
+1) Please fill in the Team Info form on [Ninova](https://ninova.itu.edu.tr/tr/).
+2) Project proposals will not be accepted after deadline. 
+3) Project proposals should be submitted by each member of the team via [GitHub Classroom of MAT381E organization](https://github.com/MAT381E). 
+4) Submit your project proposal R Project (include all source files, i.e., .Rmd file) by
+March 29, 2021  18:00.
