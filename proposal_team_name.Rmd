@@ -102,4 +102,4 @@ References:
 2) Project proposals will not be accepted after deadline. 
 3) Project proposals should be submitted by each member of the team via [GitHub Classroom of MAT381E_Fall21 organization](https://github.com/MAT381E_Fall21). 
 4) Submit your project proposal R Project (include all source files, i.e., .Rmd file) by
-November 1, 2021  18:00..
+November 1, 2021  18:00...
