@@ -1,100 +1,129 @@
 ---
 title: "Recycling Movement in the World"
-author: "Hypatia"
-date: "01/11/2021"
+author: "**Hypatia**"
+date: "10/11/2021"
 output:
   pdf_document: default
   html_document: default
 ---
+\
+
+       
+### **Project team members**   
+    -Büşra Köksal   
+    -Zeynep Akkoç   
+    -Selin Duman
+\
+\
 
 
+   
+**Project proposal should clearly define the social problem or issue the project is addressing, and explicitly identify research questions to be answered.**
+   
+The primary objective of the project is to raise awareness on recycling in the World.The number of waste in the world is increasing day by day because we are in an order based on the increase in the world population, industrialization and consumption. We will present recycling rates for each waste type and human’s waste rates.In our Project these questions will be answered.      
+
+*	What is the Recycling rate of municipal waste recently? Is it effective?       
+
+*	What is the rates municipal waste recycled and composted in each European country? Has this ratio changed dramatically between 2004 and 2016? 
+
+* What is the the percentages of municipal waste up to recycling rates by country 2019  that is recycled, incinerated, incinerated to produce energy and landfilled.   
+
+* What is the packaging waste recycling rates in Europe by country?   
+
+* What is the correlation between consumption and material productivity by country?   
+
+* Recycling rate considering the total generated and total recycled data of various types of waste?   
+    
+
+\
+\
 
 
- 
-*	Project title   
-**Recycling Movement in the World**
-
-*	Project team members   
--Büşra Köksal   
--Zeynep Akkoç   
--Selin Duman
-
-
-* Project proposal should clearly define the social problem or issue the project is addressing, and explicitly identify research questions to be answered.
-
-
-The primary objective of the project is to raise awareness on recyling in the World.The number of waste in the world is increasing day by day because we are in an order based on the increase in the world population, industrialization and consumption. We will present  recyling rates for each waste type and human’s waste rates.In our Project these questions will be answered.   
--	What is the Recycling rate of municipal waste recently? Is it effective?    
--	What is the rates municipal waste recycled and composted in each European country? Has this ratio changed dramatically between 2004 and 2016?   
-- What is the the percentages of municipal waste up to recyling rates by country 2019  that is recycled, incinerated, incinerated to produce energy and landfilled.   
--What is the packaging waste recycling rates in Europe by country?   
--What is the correlation between consumption and material productivity by country?   
--Recycling rate considering the total generated and total recycled data of various types of waste?
-
-
-
-
-* Project proposal should give detailed description of project data (what kind of data it is, what are the variables, how to access to data and so on).
+**Project proposal should give detailed description of project data (what kind of data it is, what are the variables, how to access to data and so on).**
 
 
 Our data type is float, and the variables are countries, years, waste type, municipal waste generated,metarial productivity,total generated,total recycled,recycled, incinerated, incinerated to produce energy and landfilled.Our data are open sources data. We accessed our data from these web sites OECD,Wikipedia, National Environment Agency,Europa Eurostat.
 
+\
+\
 
 
-* Project proposal should also discuss whether there is any ethical considerations for this project data (if there is, we strongly suggest you not to use that data).
+**Project proposal should also discuss whether there is any ethical considerations for this project data (if there is, we strongly suggest you not to use that data).**  
 
 
 There is not any ethical considerations for this project.There is no content in our data that will affect any social structure. There is no issue regarding any race, religion or gender. That’s way we can use these data in our project.
 
+\
+\
 
-* Project proposal should give an idea what will be the end product, i.e., describe what you hope to deliver as a final product.
-
-
-The primary purpose of the project is to raise awareness about recyling  all the world, the results and facts will be understandable from all segments of the society.Our final product will be to analysing to recycling movement's evolution from different perspectives.
-
-
-* A task plan how project will be performed. 
-
--Researching the project subject   
--Data set research on the subject   
--Deciding on the subject and dataset   
--Project proposal    
--Data importing   
--Data cleaning   
--Project Interm Report   
--Reshaping   
--Data exploring   
--Data visualization   
--Data analysing   
--Project final report   
--Oral presentation   
+**Project proposal should give an idea what will be the end product, i.e., describe what you hope to deliver as a final product.**  
 
 
+The primary purpose of the project is to raise awareness about recycling  all the world, the results and facts will be understandable from all segments of the society.Our final product will be to analysing to recycling movement's evolution from different perspectives.
+\
+\
 
-* State assignment of tasks and projected contributions for each team members.
-Tell how long each member is within your team and give percentage of the contribution of each team member to the preparation of the project proposal. 
+
+**A task plan how project will be performed.**   
+
+* Researching the project subject   
+* Data set research on the subject   
+* Deciding on the subject and dataset   
+* Project proposal    
+* Data importing   
+* Data cleaning   
+* Project Interm Report   
+* Reshaping   
+* Data exploring   
+* Data visualization   
+* Data analysing   
+* Project final report   
+* Oral presentation   
+
+\
+\
+\
+\
+
+
+
+**State assignment of tasks and projected contributions for each team members. Tell how long each member is within your team and give percentage of the contribution of each team member to the preparation of the project proposal.**   
 
 Each team member will carry out each project step together via zoom meetings or face-to-face meetings.
+\
+\
 
-The steps are:   
--Researching the subject and datasets,   
--Examine the datasets,   
--Deciding the subject and datasets,   
--Comparing the different datasets and deciding which are will be using,   
--Preparing the project proposal.
+**The steps are:**  
 
-Büşra Köksal ->Contributing equally to the entire project plan. Büşra will give %100 of contribution of herself.    
-Zeynep Akkoç ->Contributing equally to the entire project plan. Zeynep will give %100 of contribution of herself.   
-Selin Duman->Contributing equally to the entire project plan.Selin  will give %100 of contribution of herself.
+* Researching the subject and datasets,   
+* Examine the datasets,   
+* Deciding the subject and datasets,   
+* Comparing the different datasets and deciding which are will be using,   
+* Preparing the project proposal.
+\
+\
 
 
-References:   
-[1]https://ec.europa.eu/eurostat/databrowser/view/t2020_rt120/default/table?lang=en    
-[2]https://www.eea.europa.eu/data-and-maps/daviz/municipal-waste-recycled-and-composted-3#tab-chart_3_filters=%7B%22rowFilters%22%3A%7B%7D%3B%22columnFilters%22%3A%7B%7D%3B%22sortFilter%22%3A%5B%22value_2016_reversed%22%5D%7D   
-[3]https://en.wikipedia.org/wiki/Recycling_rates_by_country   
-[4]https://ec.europa.eu/eurostat/databrowser/view/ENV_WASPACR__custom_1493876/default/bar?lang=en      
-[5]https://www.oecd-ilibrary.org/sites/f5670a8d-en/index.html?itemId=/content/component/f5670a8d-en#wrapper   
-[6]https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling   
+
+**Büşra Köksal ->** Contributing equally to the entire project plan. Büşra will give %100 of contribution of herself.    
+**Zeynep Akkoç ->** Contributing equally to the entire project plan. Zeynep will give %100 of contribution of herself.   
+**Selin Duman->** Contributing equally to the entire project plan.Selin  will give %100 of contribution of herself.
+
+\
+\
+\
+
+#### **References:**  
+\
+
+**[1]** https://ec.europa.eu/eurostat/databrowser/view/t2020_rt120/default/table?lang=en    
+**[2]** https://www.eea.europa.eu/data-and-maps/daviz/municipal-waste-recycled-and-composted-3#tab-chart_3_filters=%7B%22rowFilters%22%3A%7B%7D%3B%22columnFilters%22%3A%7B%7D%3B%22sortFilter%22%3A%5B%22value_2016_reversed%22%5D%7D   
+**[3]** https://en.wikipedia.org/wiki/Recycling_rates_by_country   
+**[4]** https://ec.europa.eu/eurostat/databrowser/view/ENV_WASPACR__custom_1493876/default/bar?lang=en      
+**[5]** https://www.oecd-ilibrary.org/sites/f5670a8d-en/index.html?itemId=/content/component/f5670a8d-en#wrapper   
+**[6]** https://www.nea.gov.sg/our-services/waste-management/waste-statistics-and-overall-recycling   
+
+
 
 
 .
